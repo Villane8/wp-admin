@@ -1,1 +1,16 @@
-#topnav{ ;
+
+.jumbotron {
+  text-align: center;
+  padding:80px;
+  margin:40px;
+}
+.container {
+  width: 50%;
+}
+.jumbotron .btn {
+  color: #fff !important;
+}
+.header clearfix { 
+  padding:100px;
+  margin:50px;
+}
