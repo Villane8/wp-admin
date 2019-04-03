@@ -26,10 +26,10 @@
 	<body <?php body_class(); ?>>
 
 		<!-- wrapper -->
-		<div class="wrapper">
+		<div class="container">
 
 			<!-- header -->
-			<header class="header clear" role="banner">
+			<div class="header clearfix">
 
 					<!-- logo -->
 					<div class="logo">
