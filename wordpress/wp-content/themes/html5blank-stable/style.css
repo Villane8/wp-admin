@@ -2,6 +2,7 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+  background-image: url("https://www.lorempixel.com/g/800/800");
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -77,3 +78,8 @@ body {
     border-bottom: 0;
   }
 }
+.container{ 
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 16px;
+  }
